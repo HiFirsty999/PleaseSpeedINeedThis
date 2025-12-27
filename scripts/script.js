@@ -3,7 +3,7 @@ var Sound = document.getElementById("Sound");
 
 //let bool = true;
 
-iShowSpeed.style.visibility = 'hidden';
+//iShowSpeed.style.visibility = 'hidden';
 
 function PlaySound() {
     console.log("Played");
