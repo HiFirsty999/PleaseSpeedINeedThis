@@ -1,7 +1,7 @@
 var Sound = document.getElementById("Sound");
-var iShowSpeed = document.getElementById("iShowSpeed");
+//var iShowSpeed = document.getElementById("iShowSpeed");
 
-let bool = true;
+//let bool = true;
 
 iShowSpeed.style.visibility = 'hidden';
 
@@ -15,7 +15,7 @@ function PauseSound() {
     Sound.pause();
 }
 
-function TryNotToLaugh() {
+/*function TryNotToLaugh() {
     console.log("No, dont!");
 
     if (bool == true) {
@@ -26,4 +26,4 @@ function TryNotToLaugh() {
 
     bool = !bool;
     console.log(bool);
-}
+}*/
